@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0c0f15"/>
+
+  <!-- faint aperture reticle, right -->
+  <g fill="none" stroke="#4d8bff" stroke-opacity="0.30" stroke-width="2.5">
+    <circle cx="1015" cy="300" r="205"/>
+    <circle cx="1015" cy="300" r="145"/>
+    <circle cx="1015" cy="300" r="85"/>
+  </g>
+  <g stroke="#ffc24a" stroke-opacity="0.32" stroke-width="2.5" stroke-linecap="round">
+    <line x1="1015" y1="60" x2="1015" y2="110"/>
+    <line x1="1015" y1="490" x2="1015" y2="540"/>
+    <line x1="775" y1="300" x2="825" y2="300"/>
+  </g>
+  <circle cx="1015" cy="300" r="7" fill="#2fd49a"/>
+
+  <!-- eyebrow -->
+  <text x="80" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="3" fill="#97a2b8">UC RIVERSIDE &#183; ELECTRICAL &amp; COMPUTER ENGINEERING</text>
+
+  <!-- title -->
+  <text x="76" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" fill="#e9edf6">Computational Optics &amp;</text>
+  <text x="76" y="318" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" fill="#e9edf6">Displays Engineering</text>
+
+  <!-- CODE Lab pill -->
+  <rect x="80" y="356" width="196" height="58" rx="15" fill="none" stroke="#f5b942" stroke-width="2.5"/>
+  <text x="102" y="396" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#f5b942">CODE Lab</text>
+
+  <!-- tagline -->
+  <text x="80" y="478" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#c4ccdb">Co-designing optics and algorithms to sense, represent, and infer</text>
+  <text x="80" y="514" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#c4ccdb">from high-dimensional visual signals.</text>
+
+  <!-- spectral accent bar -->
+  <rect x="0" y="618" width="240" height="12" fill="#8a6cff"/>
+  <rect x="240" y="618" width="240" height="12" fill="#4d8bff"/>
+  <rect x="480" y="618" width="240" height="12" fill="#2fd49a"/>
+  <rect x="720" y="618" width="240" height="12" fill="#ffc24a"/>
+  <rect x="960" y="618" width="240" height="12" fill="#ff6a52"/>
+</svg>
